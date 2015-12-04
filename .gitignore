@@ -1,0 +1,10 @@
+/bin/
+
+/target/
+.classpath
+
+.settings
+HelloWorld/.settings
+HelloWorld/target/
+HelloWorld/bin/
+HelloWorld/.classpath
